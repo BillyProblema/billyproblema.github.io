@@ -1,0 +1,9 @@
+{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.misproyectos.cuarnero",
+      "sha256_cert_fingerprints":
+        ["B3:9B:8E:D3:24:05:73:C6:4F:39:E0:DF:95:06:87:4A:37:03:00:CA:B6:F0:70:BA:90:C8:FB:98:A2:B1:CD:06"]
+    }
+  }
